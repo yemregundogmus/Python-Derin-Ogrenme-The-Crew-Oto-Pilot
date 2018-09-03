@@ -1,5 +1,6 @@
 # Derin Ogrenme The Crew Oto Pilot
 
+![Serit Takip](serittakip.gif)
 
 # Yunus Emre Gündoğmuş - Ağustos 2018
 
