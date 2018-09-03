@@ -4,12 +4,16 @@
 
 # Yunus Emre Gündoğmuş - Ağustos 2018
 
-İçeriğin Anlatıldığı Youtube Videosu : 
+İçeriğin Anlatıldığı Youtube Videosu : https://youtu.be/HMRx7tgvoAg
 
 - Bu Mödülde Başlangıçta OpenCV Kütüphanesini kullanarak ekranı alıp o ekrandaki şeritleri tanımaya başladık. Ardından bu şeritleri görünce nasıl aksiyon alacağını kodladık. Ve elimizde çok stabil olmasa da şerit tanıyarak ona göre aksiyon alan bir algoritma oluştu. 
 
 
 - Ardından bu oluşan algoritma ile makineye bir training dataseti oluşturmaya başladık. Bu training dataset'i fotoğraflar ve aksiyonları içeriyordu. Yani virajlar varken W-D tuşları, gibi gibi 19.990 Sample ile toplamda 14.000 Adım eğittimiz model çok stabil olmasa da arabaları yanlayabiliyor, Polislerden Kaçabiliyordu. İlerleyen seviyelerde ise yapmak istediğimiz şey sentdex'inde yaptığı gibi object detection ile arabaları, ağaçları, insanları tanıyarak bunlara göre aksiyon almasını sağlamak.
+
+**Kurduğumuz Model Polisten Kaçıyor.**
+
+![Model Polisten Kaçıyor](poliskacis.gif)
 
 
 **Modelde Kullanılan Başlıca Kütüphaneler Şunlar**
