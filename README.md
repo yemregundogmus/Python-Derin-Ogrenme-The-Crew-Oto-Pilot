@@ -2,7 +2,7 @@
 
 ![Serit Takip](serittakip2.gif)
 
-# Yunus Emre Gündoğmuş - Ağustos 2018
+ **Yunus Emre Gündoğmuş - Ağustos 2018**
 
 İçeriğin Anlatıldığı Youtube Videosu : https://youtu.be/HMRx7tgvoAg
 
