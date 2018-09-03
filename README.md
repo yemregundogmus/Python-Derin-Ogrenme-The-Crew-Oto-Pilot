@@ -1,1 +1,1 @@
-# Python Derin Ogrenme The Crew Oto Pilot
+# Derin Ogrenme The Crew Oto Pilot
