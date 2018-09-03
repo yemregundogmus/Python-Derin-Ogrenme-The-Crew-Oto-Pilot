@@ -1,3 +1,6 @@
+# BU DOSYA EĞİTİM İÇİN TRAİN DATASETİ OLUŞTURULURKEN VEYA NORMALDE OPENCVDEN DİREKT ŞERİT TAKİBİ YAPARKEN KULLANILIR
+# NOT : EKRAN AYARLARINIZA GÖRE DEĞİŞTİRMEYİ UNUTMAYIN. 
+
 import numpy as np
 import cv2
 import time
@@ -90,7 +93,7 @@ for i in list(range(4))[::-1]:
 
 last_time = time.time()
 while True:
-    screen = grab_screen(region=(0,40,1280,600))
+    screen = grab_screen(region=(0,40,1280,600)) #BURAYI EKRAN AYARLARINIZA GÖRE DÜZENLEYİN
     print('Frame took {} seconds'.format(time.time()-last_time))
     last_time = time.time()
     new_screen,original_image, m1, m2 = process_img(screen)
